@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GHRISTU University Voice Assistant",
+  "description": "A warm, conversational AI voice assistant providing information about GHRISTU University programs, campus life, and admissions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
